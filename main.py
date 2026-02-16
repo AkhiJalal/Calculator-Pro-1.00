@@ -1,6 +1,4 @@
-# ===============================
 # Calculator Pro 1.01
-# ===============================
 
 # ----- Operations -----
 
@@ -40,8 +38,6 @@ operations = {
     "^": nth_root
 }
 
-
-# ----- Helper Functions -----
 
 def get_number(prompt):
     """Safely get a float from user."""
